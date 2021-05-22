@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+  mlekop.cpp
+  reg.cpp
+  vibor.cpp
+  Создание кода...
+D:\myTamagochi\myTamagochi\files.h(30): warning C4715: files::check: значение возвращается не при всех путях выполнения
+D:\myTamagochi\myTamagochi\files.h(30): warning C4715: files::check: значение возвращается не при всех путях выполнения
+  bird.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  myTamagochi.vcxproj -> D:\myTamagochi\Debug\myTamagochi.exe
